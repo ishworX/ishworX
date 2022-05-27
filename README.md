@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently a 3rd  year student at U of L.
+</br>🔭 I’m currently a 3rd  year student at U of L.
 🌱 I’m currently learning more about BlockChain and Web 3.0.
 💼 I’m looking for an Internship..
 💬 Ask me about C++ or any tech-related stuff.
