@@ -1,8 +1,8 @@
 # 💫About Me :
-</br>🔭 I’m currently a 3rd  year student at U of L.
-🌱 I’m currently learning more about BlockChain and Web 3.0.
-💼 I’m looking for an Internship..
-💬 Ask me about C++ or any tech-related stuff.
+🔭 I’m currently a 3rd  year student at U of L. </br>
+🌱 I’m currently learning more about BlockChain and Web 3.0. </br>
+💼 I’m looking for an Internship.</br>
+💬 Ask me about C++ or any tech-related stuff.</br>
 📫 How to reach me: Insta - @1shwor_x3tri , snap - Ishwor_x3ttri
 
 
