@@ -20,5 +20,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://devhumor.com/media/the-programmer-s-curse)" width="512px"/>
+<img src="[[https://random-memer.herokuapp.com/](https://devhumor.com/media/the-programmer-s-curse)](https://devhumor.com/media/the-programmer-s-curse)" width="512px"/>
 
