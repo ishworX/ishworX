@@ -7,6 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://whoisrabbit.com">
-    <img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" width="110" alt="My Portfolio"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" width="100" alt="My Portfolio"/>
   </a>
 </div>
