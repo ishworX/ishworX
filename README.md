@@ -10,8 +10,6 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1055655980521767023)
-
 ---
 
 ### :man_technologist: About Me :
@@ -46,3 +44,7 @@ Welcome to my GitHub profile! I'm a passionate Student developer <img src="https
 ### 😉: Programming Joke :
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### 🧑🏽‍💻: Activity Status :
+[![Discord Presence](https://lanyard.cnrad.dev/api/1055655980521767023)](https://discord.com/users/1055655980521767023)
+![Discord Presence](https://lanyard.cnrad.dev/api/1055655980521767023)
