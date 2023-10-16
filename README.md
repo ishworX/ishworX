@@ -1,15 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="https://ca.linkedin.com/in/ishwor-tandon-42a4351b9">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://whoisrabbit.com">
-    <img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" width="100" alt="My Portfolio"/>
-  </a>
-</div>
-
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"> 
+<a href="https://in.linkedin.com/in/ishwor-tandon-42a4351b9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://whoisrabbit.com"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" alt="My Portfolio"/></a>
+</p>
 <img src="https://komarev.com/ghpvc/?username=ishworX&style=flat-square&color=blue" alt="m-github-count"/>
 
 <h1>
