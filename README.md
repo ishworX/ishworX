@@ -3,13 +3,15 @@
 <a href="https://in.linkedin.com/in/ishwor-tandon-42a4351b9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://whoisrabbit.com"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2"  width="105 alt="My Portfolio"/></a>
 </p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1055655980521767023)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ishworX&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1055655980521767023)
+
 ---
 
 ### :man_technologist: About Me :
