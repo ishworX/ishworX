@@ -10,8 +10,9 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
+<p align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/1055655980521767023)]https://discord.com/users/1055655980521767023
-
+</p>
 ---
 
 ### :man_technologist: About Me :
