@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges">
-  <a href="(https://github.com/ishworX)">
+  <a href="https://github.com/ishworX">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.whoisrabbit.com">
+  <a href="https://whoisrabbit.com">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
