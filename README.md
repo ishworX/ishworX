@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-Welcome to my GitHub profile! I'm a passionate Student developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in .NET development. 
+Welcome to my GitHub profile! I'm a passionate Student developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently studying at UofL, specializing in software development. 
 
 - 💻 Currently, I'm working as a Discord Bot Developer and a Web Developer, utilizing my expertise in Javascript, React, NodeJs,NextJs and TailwindCss to develop discord bots and web applications.
 - ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
