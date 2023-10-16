@@ -26,4 +26,4 @@ Welcome to my GitHub profile! I'm a passionate Student developer <img src="https
 - 💻 Currently, I'm working as a Discord Bot Developer and a Web Developer, utilizing my expertise in Javascript, React, NodeJs,NextJs and TailwindCss to develop discord bots and web applications.
 - ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://ca.linkedin.com/in/ishwor-tandon-42a4351b9)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ishwor-blue?style=flat&logo=Linkedin&logoColor=white)](https://ca.linkedin.com/in/ishwor-tandon-42a4351b9)
