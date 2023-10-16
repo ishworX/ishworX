@@ -47,4 +47,3 @@ Welcome to my GitHub profile! I'm a passionate Student developer <img src="https
 
 ### 🧑🏽‍💻: Activity Status :
 [![Discord Presence](https://lanyard.cnrad.dev/api/1055655980521767023)](https://discord.com/users/1055655980521767023)
-![Discord Presence](https://lanyard.cnrad.dev/api/1055655980521767023)
