@@ -2,6 +2,7 @@
 <p align="center"> 
 <a href="https://in.linkedin.com/in/ishwor-tandon-42a4351b9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://whoisrabbit.com"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2"  width="105 alt="My Portfolio"/></a>
+ [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ishworX&style=flat-square&color=blue" alt=""></p>
