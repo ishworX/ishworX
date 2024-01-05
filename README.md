@@ -46,5 +46,5 @@ Welcome to my GitHub profile! I'm a passionate Student developer <img src="https
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### 🧑🏽‍💻: Activity Status :
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1055655980521767023?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20school%20works...)](https://discord.com/users/1055655980521767023)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1055655980521767023?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20school%20works...)](https://discord.com/users/209275429205311489)
 
