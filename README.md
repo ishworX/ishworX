@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center"> 
-<a href="https://in.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://whoisrabbit.com"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2"  width="105 alt="My Portfolio"/></a>
 <a href="https://whoisrabbit.com"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2"  width="105 alt="My Portfolio"/></a>
 </p>
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Student developer <img src="https
 
 - 💻 Currently, I'm working as a Discord Bot Developer and a Web Developer, utilizing my expertise in Javascript, React, NodeJs,NextJs and TailwindCss to develop discord bots and web applications.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ishwor-blue?style=flat&logo=Linkedin&logoColor=white)](https://ca.linkedin.com/in/ishwor-tandon-42a4351b9)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ishwor-blue?style=flat&logo=Linkedin&logoColor=white)](https://ca.linkedin.com/in/)
 
 ---
 
