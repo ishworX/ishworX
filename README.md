@@ -48,25 +48,6 @@ Welcome to my GitHub profile! I'm a passionate Student developer <img src="https
 
 
 ---
-
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 ### 🧑🏽‍💻: Activity Status :
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/209275429205311489?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20school%20works...)](https://discord.com/users/209275429205311489)
 
